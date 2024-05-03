@@ -8,7 +8,7 @@
 - [Description](#description)
 - [Technologies Utilisées](#techno)
 - [Diagramme d'activité](#activité)
-- [Digramme de cas](#usecase)
+- [Schema de la BDD](#BDD)
 - [Prérequis](#prerequis)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
@@ -33,12 +33,12 @@ L'application "LyonPalme - Gestion de Matériels" a pour objectif la gestion eff
 
 ## Diagramme d'activité <a id="activité"></a>
 
-![Diagramme d'activité](/Forms/Images/activité.png)
+![Diagramme d'activité](/LyonPalme/img/activité.png)
 
 
-## Diagramme de cas <a id="usecase"></a>
+## Schema de la BDD <a id="BDD"></a>
 
-![Diagramme de cas](/Forms/Images/usecase.png)
+![Schema de la BDD](/LyonPalme/img/usecase.png)
 
 
 ## Prérequis <a id="prerequis"></a>
